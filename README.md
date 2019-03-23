@@ -1,5 +1,5 @@
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/tangwulin/node/master/node.sh && chmod +x node.sh && bash node.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/tangwulin/BTPanel_5.9.1_crack/master/install.sh && chmod +x install.sh && bash install.sh
 ```
